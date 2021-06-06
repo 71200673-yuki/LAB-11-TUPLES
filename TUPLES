@@ -1,0 +1,11 @@
+#lisda meminta tolong kepada marni untuk membantunya dalam mengetahui tipe data
+#dan panjang tuple dengan python dan dengan membuatkannya program. 
+
+#input: diminta inputan baik berupa kata atau angka di dalam code
+#proses: setelah dimasukkan input akan di print inputan data dan juga print tipe data dengan perintah type untuk panjang tuple 
+#dengan perintah len. 
+#output: outputnya adalah inputan data yang sudah ada didalam code dan juga jenis data atau tipe datanya serta panjang tuple. 
+
+data= ('a','b','c','d')
+print(type(data))
+print(len(data))
